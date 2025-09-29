@@ -1,17 +1,4 @@
- <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="insfosys springboard">
-  <!-- Dark Background -->
-  <rect x="0" y="0" width="100%" height="100%" rx="12" fill="#0b1220" />
-  
-  <!-- Bold & Big Centered Text -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="42" font-weight="bold" fill="#ffffff">
-    insfosys_ springboard_6.0
-  </text>
-</svg>
-![insfosys springboard dark box](./insfosys_springboard_6.0.svg)
+ 
 - **code/** – contains the Google Colab / Jupyter notebook with the full pipeline.  
 
 🎯 Objectives
