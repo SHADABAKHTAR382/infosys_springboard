@@ -1,4 +1,4 @@
- 
+ INFOSYS_SPRINGBOARD_MILESTONE1
 - **code/** – contains the Google Colab / Jupyter notebook with the full pipeline.  
 
 🎯 Objectives
