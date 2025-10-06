@@ -1,6 +1,6 @@
  # CodeGenie — AI Explainer & Code Generator
 
-*🚀 CodeGenie — AI Explainer & Code Generator
+*  CodeGenie — AI Explainer & Code Generator
 🏆 Milestone 1 — Static Analysis & Multi-Model Explainers
 
 🎓 Program: Infosys Virtual Springboard Internship 6.0
@@ -52,12 +52,6 @@ Visualizations — Create bar charts, pie charts, word clouds, and PCA scatterpl
 Milestone 2: Build a retrieval system and vector store.
 Milestone 3: Integrate RAG for project-aware explanations.
 Milestone 4: Develop an IDE plugin for interactive explain & generate workflows.
-
-👨‍💻 Author & License
-
-Author: Shadab Akhtar — Infosys Virtual Springboard Internship 6.0
-Email: shadabakhtar382@gmail.com
-License: Educational purpose under Infosys Springboard 6.0
 
 💡 Summary
 
