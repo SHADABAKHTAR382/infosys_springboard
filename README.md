@@ -3,8 +3,6 @@
 *🚀 CodeGenie — AI Explainer & Code Generator
 🏆 Milestone 1 — Static Analysis & Multi-Model Explainers
 
-👨‍💻 Author: Shadab Akhtar
-📧 Email: shadabakhtar382@gmail.com
 🎓 Program: Infosys Virtual Springboard Internship 6.0
 
 🔍 Project Overview
